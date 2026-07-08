@@ -14,8 +14,8 @@ try:
     from fredapi import Fred
 except ImportError:
     Fred = None
-    FRED_API_KEY = "55050ce02081c3c6d66969b2ca000ad3"
-fred = Fred(api_key="55050ce02081c3c6d66969b2ca000ad3")
+    FRED_API_KEY = "place a your FRED API KEY"
+fred = Fred(api_key="place a your FRED API KEY")
 
 # =========================================================
 # 1. DATA LOADING

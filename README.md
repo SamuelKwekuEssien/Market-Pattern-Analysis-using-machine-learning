@@ -15,12 +15,9 @@ The main script, [pattern_ml_backtest_V4_sentiment.py](pattern_ml_backtest_V4_se
 - Runs a walk-forward backtest and reports metrics such as win rate, drawdown, Sharpe ratio, and total return
 - Saves a trained model artifact for later use
 
-## Project files
+## Project file
 
 - [pattern_ml_backtest_V4_sentiment.py](pattern_ml_backtest_V4_sentiment.py) — main training, feature engineering, backtest, and model export workflow
-- [pattern_ml_backtest.py](pattern_ml_backtest.py) — simpler baseline implementation
-- [pattern_ml_backtest_V2.py](pattern_ml_backtest_V2.py) and related versions — earlier experiment variants
-- [trading_bot.py](trading_bot.py) and other trading bot scripts — trading integration experiments
 
 ## Requirements
 
